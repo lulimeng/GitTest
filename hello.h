@@ -1,5 +1,6 @@
 #IFNDEF_HELLO_H
-#DEF_HELLO_H
+#DEFINE_HELLO_H
 
+int main(void);
 
 #ENDIF
